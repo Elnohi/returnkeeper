@@ -1,0 +1,5 @@
+node_modules/
+.env
+receipts.db
+*.log
+.DS_Store
