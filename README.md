@@ -15,7 +15,7 @@ Americans lose over $50 billion annually on forgotten returns and expired warran
 
 ## Status
 
-🚧 **MVP in development** - Join the waitlist: [https://YOUR_USERNAME.github.io/returnkeeper/](https://YOUR_USERNAME.github.io/returnkeeper/)
+🚧 **MVP in development** - Join the waitlist: [https://elnohi.github.io/returnkeeper/](https://YOUR_USERNAME.github.io/returnkeeper/)
 
 ## Tech Stack
 
